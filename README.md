@@ -1,2 +1,2 @@
-# hermes
-Redis-based messaging
+# RedisOwl
+Super lightweight redis-based messaging
