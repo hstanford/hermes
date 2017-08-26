@@ -1,0 +1,2 @@
+# hermes
+Redis-based messaging
